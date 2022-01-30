@@ -1,5 +1,6 @@
 package day12;
 
+/*Multidimensional*/
 public class Array_3D {
 	public static void main(String[] args) {
 		byte[][][] x = { //

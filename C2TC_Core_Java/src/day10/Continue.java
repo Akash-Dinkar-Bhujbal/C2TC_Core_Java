@@ -1,5 +1,9 @@
 package day10;
 
+/*
+ * Flow control : Transfer statement
+ * continue stmt
+ * */
 public class Continue {
 
 	public static void main(String[] args) {

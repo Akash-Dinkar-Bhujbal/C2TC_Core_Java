@@ -1,6 +1,6 @@
 package day04;
 
-public class Demo {
+public class OperatorsAndFinalVariable {
 
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {

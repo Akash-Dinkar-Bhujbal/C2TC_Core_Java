@@ -3,6 +3,10 @@ package day05;
 // Ref: https://www.mathsisfun.com/numbers/even-odd.html
 import java.util.*;
 
+/*
+ * Flow control : Selection statement
+ * if-else
+ * */
 public class EvenOdd {
 
 	static Scanner sc = new Scanner(System.in);// Reading from keyword

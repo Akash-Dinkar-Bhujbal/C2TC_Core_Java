@@ -1,5 +1,8 @@
 package day08;
-
+/*
+ * Flow control : Selection statement
+ * switch case
+ * */
 public class SwitchCase {
 
 	public static void main(String[] args) {

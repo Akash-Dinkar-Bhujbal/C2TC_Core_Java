@@ -1,5 +1,9 @@
 package day10;
 
+/*
+ * Flow control : Transfer statement
+ * break stmt
+ * */
 public class Break {
 
 	public static void main(String[] args) {

@@ -1,7 +1,10 @@
 package day08;
 
+/*
+ * Flow control : Iterative statement
+ * while loop
+ * */
 public class WhileLoop {
-
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -13,5 +16,3 @@ public class WhileLoop {
 	}
 
 }
-
-

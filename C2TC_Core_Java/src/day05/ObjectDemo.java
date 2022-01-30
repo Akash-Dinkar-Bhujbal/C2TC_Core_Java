@@ -11,10 +11,9 @@ class A {
 	}
 }
 
-public class Demo11 {
+public class ObjectDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		A obj = new A();
 		System.out.println(obj.i);
 	}

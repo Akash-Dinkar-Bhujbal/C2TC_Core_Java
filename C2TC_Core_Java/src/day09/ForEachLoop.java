@@ -1,5 +1,9 @@
 package day09;
 
+/*
+ * Flow control : Iterative statement
+ * for-each loop
+ * */
 public class ForEachLoop {
 
 	public static void main(String[] args) {

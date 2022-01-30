@@ -50,4 +50,7 @@ public class Java_Notes {
  * 
  * 
  * */
+	public static void main(String[] args) {
+		System.out.println("Introduction of Java");
+	}
 }

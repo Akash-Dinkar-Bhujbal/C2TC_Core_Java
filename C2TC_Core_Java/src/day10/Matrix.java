@@ -1,5 +1,9 @@
 package day10;
 
+/*
+ * Flow control : Iterative statement
+ * for loop & for-each loop
+ * */
 public class Matrix {
 
 	@SuppressWarnings("unused")

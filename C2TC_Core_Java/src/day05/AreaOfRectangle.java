@@ -2,6 +2,7 @@ package day05;
 
 import java.util.*;
 
+// User Defined program:
 public class AreaOfRectangle {
 	static Scanner sc = new Scanner(System.in);
 

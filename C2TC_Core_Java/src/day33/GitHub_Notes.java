@@ -1,6 +1,6 @@
 package day33;
 
-public class GitHub {
+public class GitHub_Notes {
 /*
  * CREATE GITHUB PROFILE 
  * Note down username and password for future use
